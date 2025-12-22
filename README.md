@@ -10,3 +10,4 @@ The focus is on **understanding problem-solving patterns**, writing **clean solu
 |Day | Topic(s)|
 |:---|---------:|
 |1| Algorithms -> Binary Search 
+|2| Algorithms -> Binary Search 

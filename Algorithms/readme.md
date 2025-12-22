@@ -9,4 +9,10 @@
 |21-Dec|Find Minimum in Rotated Sorted Array|[Leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/153.cpp)|
 |21-Dec|Find Peak Element|[Leetcode](https://leetcode.com/problems/find-peak-element?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/162.cpp)|
 |21-Dec|Valid Perfect Square|[Leetcode](https://leetcode.com/problems/valid-perfect-square?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/367.cpp)|
-|21-Dec|Guess Number Higher or Lower|[Leetcode](https://leetcode.com/problems/guess-number-higher-or-lower?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/374.cpp)|
+|22-Dec|Koko Eating Bananas|[Leetcode](https://leetcode.com/problems/koko-eating-bananas?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/875.cpp)|
+|22-Dec|Capacity to Ship Packages within D days|[Leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/1011.cpp)|
+|22-Dec|Split Array Largest Sum|[Leetcode](https://leetcode.com/problems/split-array-largest-sum?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/410.cpp)|
+|22-Dec|Minimize max Distance to Gas Station|[Leetcode](#)|[Binary Search](Binary%20Search/774.cpp)|
+|22-Dec|Find Smallest Divisor Given a Threshold|[Leetcode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/1283.cpp)|
+|22-Dec|Magnetic Force Between Two Balls|[Leetcode](https://leetcode.com/problems/magnetic-force-between-two-balls?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/1552.cpp)|
+|22-Dec|Find a Peak element 2|[Leetcode](https://leetcode.com/problems/find-a-peak-element-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/1901.cpp)|
