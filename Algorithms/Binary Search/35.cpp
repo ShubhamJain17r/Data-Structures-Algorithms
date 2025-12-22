@@ -28,7 +28,7 @@ int searchInsert(vector<int>& nums, int target) {
     int l = 0, r = nums.size() - 1;
     int lb = nums.size();             // if target > nums[last]
     while (l <= r) {
-        int m = l + ((r - l) >> 2);
+        int m = l + ((r - l) >> 1);
         int mid = nums[m];
         if (mid < target)   l = m + 1;
         else {

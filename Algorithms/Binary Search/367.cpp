@@ -19,7 +19,7 @@ bool isPerfectSquare(int num) {
     if (num == 1)   return true;
     int l = 1, r = num / 2;
     while (l <= r) {
-        int m = l + ((r - l) >> 2);
+        int m = l + ((r - l) >> 1);
         // cout<<m<<endl;
         double target = num / (double)m;
         // cout<<target<<endl<<"---"<<endl;

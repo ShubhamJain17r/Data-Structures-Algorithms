@@ -22,7 +22,7 @@ using namespace std;
 int search(vector<int>& nums, int target) {
     int l = 0, r = nums.size() - 1;
     while (l <= r) {
-        int m = l + ((r - l) >> 2);     // ( >> works as division by 2)
+        int m = l + ((r - l) >> 1);     // ( >> works as division by 2)
         int mid = nums[m];
         if (mid == target) return m;    // element found
         if (mid <  target) l = m + 1;   // element does not exist in the left half of m

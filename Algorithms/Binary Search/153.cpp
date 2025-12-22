@@ -70,7 +70,7 @@ int findMin(vector<int> &nums) {
     int l = 0, r = nums.size() - 1;
     int mini = INT_MAX;
     while (l <= r) {
-        int m = l + ((r - l) >> 2);
+        int m = l + ((r - l) >> 1);
         int mid = nums[m];
 
         // whole range is sorted

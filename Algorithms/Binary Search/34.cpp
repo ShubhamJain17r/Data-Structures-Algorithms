@@ -30,7 +30,7 @@ int lower_bound(vector<int>& arr, int val) {
     int l = 0, r = arr.size() - 1;
     int lb = arr.size();
     while (l <= r) {
-        int m = l + ((r - l) >> 2);
+        int m = l + ((r - l) >> 1);
         int mid = arr[m];
 
         if (mid < val)      l = m + 1;
@@ -48,7 +48,7 @@ int upper_bound(vector<int>& arr, int val) {
     int l = 0, r = arr.size() - 1;
     int ub = arr.size();
     while (l <= r) {
-        int m = l + ((r - l) >> 2);
+        int m = l + ((r - l) >> 1);
         int mid = arr[m];
 
         if (mid <= val)      l = m + 1;

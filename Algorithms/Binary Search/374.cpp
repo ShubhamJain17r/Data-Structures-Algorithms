@@ -32,7 +32,7 @@ int guess(int num) {
 int guessNumber(int n) {
     int l = 1, r = n;
     while (l <= r) {
-        int m = l + ((r - l) >> 2);
+        int m = l + ((r - l) >> 1);
         int curr = guess(m);
         if (curr == 0) return m;
         if (curr == 1) l = m + 1;

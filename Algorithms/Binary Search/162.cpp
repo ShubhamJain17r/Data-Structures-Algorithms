@@ -36,7 +36,7 @@ int findPeakElement(vector<int> &nums) {
     int l = 1, r = n - 2;
 
     while (l <= r) {
-        int m = l + ((r - l) >> 2);
+        int m = l + ((r - l) >> 1);
         int mid = nums[m];
         if (nums[m - 1] < mid && mid > nums[m + 1])         return m;
         if (nums[m - 1] < nums[m] && nums[m] < nums[m + 1]) l = m + 1;
