@@ -16,3 +16,9 @@
 |22-Dec|Find Smallest Divisor Given a Threshold|[Leetcode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/1283.cpp)|
 |22-Dec|Magnetic Force Between Two Balls|[Leetcode](https://leetcode.com/problems/magnetic-force-between-two-balls?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/1552.cpp)|
 |22-Dec|Find a Peak element 2|[Leetcode](https://leetcode.com/problems/find-a-peak-element-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Binary Search](Binary%20Search/1901.cpp)|
+|23-Dec|Two Sum 2|[Leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted?envType=problem-list-v2&envId=vyrqwl9s)|[Two Pointer and Sliding Window](Two%20Pointer%20and%20Sliding%20Window/167.cpp)|
+|23-Dec|3Sum|[Leetcode](https://leetcode.com/problems/3sum?envType=problem-list-v2&envId=vyrqwl9s)|[Two Pointer and Sliding Window](Two%20Pointer%20and%20Sliding%20Window/15.cpp)|
+|23-Dec|4Sum|[Leetcode](https://leetcode.com/problems/4sum?envType=problem-list-v2&envId=vyrqwl9s)|[Two Pointer and Sliding Window](Two%20Pointer%20and%20Sliding%20Window/18.cpp)|
+|23-Dec|Container with Most Water|[Leetcode](https://leetcode.com/problems/container-with-most-water?envType=problem-list-v2&envId=vyrqwl9s)|[Two Pointer and Sliding Window](Two%20Pointer%20and%20Sliding%20Window/11.cpp)|
+|23-Dec|Minimum Size Subarray Sum|[Leetcode](https://leetcode.com/problems/minimum-size-subarray-sum?envType=problem-list-v2&envId=vyrqwl9sz)|[Two Pointer and Sliding Window](Two%20Pointer%20and%20Sliding%20Window/209.cpp)|
+|23-Dec|Remove Duplicates from Sorted Array|[Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array?envType=problem-list-v2&envId=vyrqwl9s)|[Two Pointer and Sliding Window](Two%20Pointer%20and%20Sliding%20Window/26.cpp)|
