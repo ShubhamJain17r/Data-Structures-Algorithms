@@ -212,12 +212,3 @@ exactlyK = atMostK(k) - atMostK(k - 1);
 * **Minimum → shrink greedily**
 * `while` restores constraints, `if` does not
 
----
-
-### 🚀 Final Note
-
-Mastering these two techniques covers **30–40% of array & string interview problems**.
-
-Once learned, they feel **mechanical and predictable**.
-
-Happy coding! 🎯
