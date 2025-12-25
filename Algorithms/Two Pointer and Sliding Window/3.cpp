@@ -17,7 +17,7 @@ int lengthOfLongestSubstring(string s) {
     int maxLen = 0, l = 0;
 
     for (int r = 0; r < s.length(); ++r) {
-        if (seen[s[r]] != -1 && seen[s[r]] >= l)    // if already seen upgrade l to its nenxt of last seen
+        if (seen[s[r]] != -1 && seen[s[r]] >= l)    // if already seen upgrade l to its next of last seen
             l = seen[s[r]] + 1;
         maxLen = max(maxLen, r - l + 1);
         seen[s[r]] = r;                             // upgrade seen

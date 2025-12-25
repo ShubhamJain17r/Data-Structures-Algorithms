@@ -1,9 +1,12 @@
 // Minimum Operation to Reduce X to 0
 
-// 
+// https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero?envType=problem-list-v2&envId=vyrqwl9s
 
 /*
-
+Constraints:
+    1 <= nums.length <= 10^5
+    1 <= nums[i] <= 10^4
+    1 <= x <= 10^9
 */
 
 #include<bits/stdc++.h>
