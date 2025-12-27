@@ -13,3 +13,4 @@ The focus is on **understanding problem-solving patterns**, writing **clean solu
 |2| Algorithms -> Binary Search 
 |3| Algorithms -> Two Pointer and Sliding Window
 |4| Algorithms -> Two Pointer and Sliding Window
+|5| Algorithms -> Greedy Approach

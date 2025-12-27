@@ -32,3 +32,6 @@
 |28|25-Dec|Interval List Intersections|[Leetcode](https://leetcode.com/problems/interval-list-intersections/description/?envType=problem-list-v2&envId=vyrqwl9s)|[Two Pointer and Sliding Window](Two%20Pointer%20and%20Sliding%20Window/986.cpp)|
 |29|25-Dec|Squares of a Sorted Array|[Leetcode](https://leetcode.com/problems/squares-of-a-sorted-array?envType=problem-list-v2&envId=vyrqwl9s)|[Two Pointer and Sliding Window](Two%20Pointer%20and%20Sliding%20Window/977.cpp)|
 |30|25-Dec|Minimum Operation to Reduce X to 0|[Leetcode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero?envType=problem-list-v2&envId=vyrqwl9s)|[Two Pointer and Sliding Window](Two%20Pointer%20and%20Sliding%20Window/1658.cpp)|
+|31|27-Dec|Assign Cookies|[Leetcode](https://leetcode.com/problems/assign-cookies?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/455.cpp)|
+|32|27-Dec|Best time To Buy and Sell Stock 2|[Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/122.cpp)|
+|33|27-Dec|Jump Game|[Leetcode](https://leetcode.com/problems/jump-game?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/55.cpp)|
