@@ -19,6 +19,36 @@ Important :
 
 using namespace std;
 
+/*
+suppose from a section where can we jump to maximum index
+
+nums = [1 2 4 1 3 1 0 2 1 1 1 4 1 1 1 1]
+from index 0 i can jump to maximum index 1, my search space is [1,1]
+in search space [1,1] i can reach upto index 3, my search space is [2,3]
+in search space [2,3] i can reach upto index 6, my search space is [4,6]. ans so on
+*/
+
 int jump(vector<int>& nums) {
-    // To be continued
+    int n = nums.size();
+    if (n == 1) return 0;
+
+    int l = 0;
+    int maxReach = nums[0];
+    int jumps = 1;
+
+    if (maxReach >= n - 1) return 1;        // if we can reach
+
+    while (l < n - 1) {
+        int mr = maxReach;
+        for (int r = l + 1; r <= mr; ++r) {         // search space
+            maxReach = max(maxReach, r + nums[r]);
+            if (maxReach >= n - 1)
+                return jumps + 1;
+        }
+        // cout<<maxReach<<" ";
+        l = mr;
+        jumps++;
+        // cout<<jumps<<"\n";
+    }
+    return jumps;
 }

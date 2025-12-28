@@ -35,3 +35,8 @@
 |31|27-Dec|Assign Cookies|[Leetcode](https://leetcode.com/problems/assign-cookies?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/455.cpp)|
 |32|27-Dec|Best time To Buy and Sell Stock 2|[Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/122.cpp)|
 |33|27-Dec|Jump Game|[Leetcode](https://leetcode.com/problems/jump-game?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/55.cpp)|
+|34|28-Dec|Jump Game 2|[Leetcode](https://leetcode.com/problems/jump-game-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/45.cpp)|
+|35|28-Dec|Non-overlapping Intervals|[Leetcode](https://leetcode.com/problems/non-overlapping-intervals?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/435.cpp)|
+|36|28-Dec|Minimum Number of Arrows to Burst Balloons|[Leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/452.cpp)|
+|37|28-Dec|Gas Station|[Leetcode](https://leetcode.com/problems/gas-station?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/134.cpp)|
+|38|28-Dec|Wiggle Subsequence|[Leetcode](https://leetcode.com/problems/wiggle-subsequence?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/376.cpp)|
