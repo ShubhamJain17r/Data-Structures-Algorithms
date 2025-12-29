@@ -40,3 +40,6 @@
 |36|28-Dec|Minimum Number of Arrows to Burst Balloons|[Leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/452.cpp)|
 |37|28-Dec|Gas Station|[Leetcode](https://leetcode.com/problems/gas-station?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/134.cpp)|
 |38|28-Dec|Wiggle Subsequence|[Leetcode](https://leetcode.com/problems/wiggle-subsequence?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/376.cpp)|
+|39|29-Dec|Majority Element|[Leetcode](https://leetcode.com/problems/majority-element?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Divide%20&Conquer/169.cpp)|
+|40|29-Dec|Maximum Subarray|[Leetcode](https://leetcode.com/problems/maximum-subarray?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Divide%20&Conquer/53.cpp)|
+|41|29-Dec|Different Ways to Add Parenthesis|[Leetcode](https://leetcode.com/problems/different-ways-to-add-parentheses?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Divide%20&Conquer/421.cpp)|

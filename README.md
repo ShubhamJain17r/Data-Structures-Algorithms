@@ -15,3 +15,4 @@ The focus is on **understanding problem-solving patterns**, writing **clean solu
 |4| Algorithms -> Two Pointer and Sliding Window
 |5| Algorithms -> Greedy Approach
 |6| Algorithms -> Greedy Approach (TBC)
+|7| Algorithms -> Divide & Conquer (TBC)
