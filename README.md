@@ -16,3 +16,4 @@ The focus is on **understanding problem-solving patterns**, writing **clean solu
 |5| Algorithms -> Greedy Approach
 |6| Algorithms -> Greedy Approach (TBC)
 |7| Algorithms -> Divide & Conquer (TBC)
+|8| Algorithms -> Recursion and Backtracking

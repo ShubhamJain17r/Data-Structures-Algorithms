@@ -40,6 +40,21 @@
 |36|28-Dec|Minimum Number of Arrows to Burst Balloons|[Leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/452.cpp)|
 |37|28-Dec|Gas Station|[Leetcode](https://leetcode.com/problems/gas-station?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/134.cpp)|
 |38|28-Dec|Wiggle Subsequence|[Leetcode](https://leetcode.com/problems/wiggle-subsequence?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Greedy%20Approach/376.cpp)|
-|39|29-Dec|Majority Element|[Leetcode](https://leetcode.com/problems/majority-element?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Divide%20&Conquer/169.cpp)|
-|40|29-Dec|Maximum Subarray|[Leetcode](https://leetcode.com/problems/maximum-subarray?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Divide%20&Conquer/53.cpp)|
-|41|29-Dec|Different Ways to Add Parenthesis|[Leetcode](https://leetcode.com/problems/different-ways-to-add-parentheses?envType=problem-list-v2&envId=vyrqwl9s)|[Greedy Approach](Divide%20&Conquer/421.cpp)|
+|39|29-Dec|Majority Element|[Leetcode](https://leetcode.com/problems/majority-element?envType=problem-list-v2&envId=vyrqwl9s)|[Divide and Conquer](Divide%20&Conquer/169.cpp)|
+|40|29-Dec|Maximum Subarray|[Leetcode](https://leetcode.com/problems/maximum-subarray?envType=problem-list-v2&envId=vyrqwl9s)|[Divide and Conquer](Divide%20&Conquer/53.cpp)|
+|41|29-Dec|Different Ways to Add Parenthesis|[Leetcode](https://leetcode.com/problems/different-ways-to-add-parentheses?envType=problem-list-v2&envId=vyrqwl9s)|[Divide and Conquer](Divide%20&Conquer/421.cpp)|
+|42|30-Dec|Permutations|[Leetcode](https://leetcode.com/problems/permutations?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/46.cpp)|
+|43|30-Dec|Permutations 2|[Leetcode](https://leetcode.com/problems/permutations-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/47.cpp)|
+|44|30-Dec|Subsets|[Leetcode](https://leetcode.com/problems/subsets?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/78.cpp)|
+|45|30-Dec|Subsets 2|[Leetcode](https://leetcode.com/problems/subsets-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/90.cpp)|
+|46|30-Dec|Combination Sum|[Leetcode](https://leetcode.com/problems/combination-sum?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/39.cpp)|
+|47|30-Dec|Combination Sum 2|[Leetcode](https://leetcode.com/problems/combination-sum-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/40.cpp)|
+|48|30-Dec|Combinations|[Leetcode](https://leetcode.com/problems/combinations?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/77.cpp)|
+|49|30-Dec|Palindrome Partitioning|[Leetcode](https://leetcode.com/problems/palindrome-partitioning?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/131.cpp)|
+|50|30-Dec|Word Search|[Leetcode](https://leetcode.com/problems/word-search?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/79.cpp)|
+|51|30-Dec|Letter Combinations of a Phone Number|[Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/17.cpp)|
+|52|30-Dec|Combination Sum 3|[Leetcode](https://leetcode.com/problems/combination-sum-iii?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/216.cpp)|
+|53|30-Dec|N-Queens|[Leetcode](https://leetcode.com/problems/n-queens?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/51.cpp)|
+|54|30-Dec|N-Queens 2|[Leetcode](https://leetcode.com/problems/n-queens-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/52.cpp)|
+|55|30-Dec|Restore IP Address|[Leetcode](https://leetcode.com/problems/restore-ip-addresses?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/93.cpp)|
+|56|30-Dec|Matchsticks to Square|[Leetcode](https://leetcode.com/problems/matchsticks-to-square?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/473.cpp)|
