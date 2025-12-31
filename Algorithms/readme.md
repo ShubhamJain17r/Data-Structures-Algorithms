@@ -58,3 +58,13 @@
 |54|30-Dec|N-Queens 2|[Leetcode](https://leetcode.com/problems/n-queens-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/52.cpp)|
 |55|30-Dec|Restore IP Address|[Leetcode](https://leetcode.com/problems/restore-ip-addresses?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/93.cpp)|
 |56|30-Dec|Matchsticks to Square|[Leetcode](https://leetcode.com/problems/matchsticks-to-square?envType=problem-list-v2&envId=vyrqwl9s)|[Recursion & Backtracking](Recursion%20and%20Backtracking/473.cpp)|
+|57|31-Dec|Single number|[Leetcode](https://leetcode.com/problems/single-number?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/136.cpp)|
+|58|31-Dec|Single Number 2|[Leetcode](https://leetcode.com/problems/single-number-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/137.cpp)|
+|59|31-Dec|Single Number 3|[Leetcode](https://leetcode.com/problems/single-number-iii?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/260.cpp)|
+|60|31-Dec|Number of 1 Bits|[Leetcode](https://leetcode.com/problems/number-of-1-bits?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/191.cpp)|
+|61|31-Dec|Counting Bits|[Leetcode](https://leetcode.com/problems/counting-bits?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/338.cpp)|
+|62|31-Dec|Bitwise AND of Number range|[Leetcode](https://leetcode.com/problems/bitwise-and-of-numbers-range?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/201.cpp)|
+|63|31-Dec|Subsets|[Leetcode](https://leetcode.com/problems/subsets?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/78.cpp)|
+|64|31-Dec|Sum of Two Integers|[Leetcode](https://leetcode.com/problems/sum-of-two-integers?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/371.cpp)|
+|65|31-Dec|Maximum XOR of Two Numbers in an Array|[Leetcode](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/421.cpp)|
+|66|31-Dec|Missing Number|[Leetcode](https://leetcode.com/problems/missing-number?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/268.cpp)|
