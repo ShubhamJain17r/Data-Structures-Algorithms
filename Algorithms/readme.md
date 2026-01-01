@@ -68,3 +68,8 @@
 |64|31-Dec|Sum of Two Integers|[Leetcode](https://leetcode.com/problems/sum-of-two-integers?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/371.cpp)|
 |65|31-Dec|Maximum XOR of Two Numbers in an Array|[Leetcode](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/421.cpp)|
 |66|31-Dec|Missing Number|[Leetcode](https://leetcode.com/problems/missing-number?envType=problem-list-v2&envId=vyrqwl9s)|[Bit Manipulation](Bit%20Manipulation/268.cpp)|
+|67|01-Jan|Pow(x, n)|[Leetcode](https://leetcode.com/problems/powx-n?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/50.cpp)|
+|68|01-Jan|Count Primes|[Leetcode](https://leetcode.com/problems/count-primes?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/204.cpp)|
+|69|01-Jan|Factorial Trailing Zeroes|[Leetcode](https://leetcode.com/problems/factorial-trailing-zeroes?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/172.cpp)|
+|70|01-Jan|Happy Number|[Leetcode](https://leetcode.com/problems/happy-number?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/202.cpp)|
+|71|01-Jan|Ugly Number 2|[Leetcode](https://leetcode.com/problems/ugly-number-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/264.cpp)|
