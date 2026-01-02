@@ -73,3 +73,8 @@
 |69|01-Jan|Factorial Trailing Zeroes|[Leetcode](https://leetcode.com/problems/factorial-trailing-zeroes?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/172.cpp)|
 |70|01-Jan|Happy Number|[Leetcode](https://leetcode.com/problems/happy-number?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/202.cpp)|
 |71|01-Jan|Ugly Number 2|[Leetcode](https://leetcode.com/problems/ugly-number-ii?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/264.cpp)|
+|72|02-Jan|Divide Two Integers|[Leetcode](https://leetcode.com/problems/divide-two-integers?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/29.cpp)|
+|73|02-Jan|Fraction to Recurring Decimal|[Leetcode](https://leetcode.com/problems/fraction-to-recurring-decimal?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/166.cpp)|
+|74|02-Jan|Super Pow|[Leetcode](https://leetcode.com/problems/super-pow?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/372.cpp)|
+|75|02-Jan|Number of Digit One|[Leetcode](https://leetcode.com/problems/number-of-digit-one?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/233.cpp)|
+|76|02-Jan|Multiply Strings|[Leetcode](https://leetcode.com/problems/multiply-strings?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/43.cpp)|

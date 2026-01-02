@@ -19,3 +19,4 @@ The focus is on **understanding problem-solving patterns**, writing **clean solu
 |8| Algorithms -> Recursion and Backtracking
 |9| Algorithms -> Bit Manipulation
 |10| Algorithms -> Maths
+|11| Algorithms -> Maths
