@@ -78,3 +78,13 @@
 |74|02-Jan|Super Pow|[Leetcode](https://leetcode.com/problems/super-pow?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/372.cpp)|
 |75|02-Jan|Number of Digit One|[Leetcode](https://leetcode.com/problems/number-of-digit-one?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/233.cpp)|
 |76|02-Jan|Multiply Strings|[Leetcode](https://leetcode.com/problems/multiply-strings?envType=problem-list-v2&envId=vyrqwl9s)|[Maths](Maths/43.cpp)|
+|77|03-Jan|Find the Index of the First Occurance in a String|[Leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string?envType=problem-list-v2&envId=vyrqwl9s)|[String & Hashing](String%20&%20Hashing/28.cpp)|
+|78|03-Jan|Valid Anagrams|[Leetcode](https://leetcode.com/problems/valid-anagram?envType=problem-list-v2&envId=vyrqwl9s)|[String & Hashing](String%20&%20Hashing/242.cpp)|
+|79|03-Jan|Group Anagrams|[Leetcode](https://leetcode.com/problems/group-anagrams?envType=problem-list-v2&envId=vyrqwl9s)|[String & Hashing](String%20&%20Hashing/49.cpp)|
+|80|03-Jan||[Leetcode]()|[String & Hashing](String%20&%20Hashing/.cpp)|
+|81|03-Jan||[Leetcode]()|[String & Hashing](String%20&%20Hashing/.cpp)|
+|82|03-Jan||[Leetcode]()|[String & Hashing](String%20&%20Hashing/.cpp)|
+|83|03-Jan||[Leetcode]()|[String & Hashing](String%20&%20Hashing/.cpp)|
+|84|03-Jan|Repeated Substring Pattern|[Leetcode](https://leetcode.com/problems/repeated-substring-pattern?envType=problem-list-v2&envId=vyrqwl9s)|[String & Hashing](String%20&%20Hashing/459.cpp)|
+|86|03-Jan|Permutation in String|[Leetcode](https://leetcode.com/problems/permutation-in-string?envType=problem-list-v2&envId=vyrqwl9s)|[String & Hashing](String%20&%20Hashing/567.cpp)|
+|85|03-Jan||[Leetcode]()|[String & Hashing](String%20&%20Hashing/.cpp)|
