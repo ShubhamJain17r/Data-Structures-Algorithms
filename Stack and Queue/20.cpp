@@ -1,9 +1,11 @@
 // Valid Parenthesis
 
-// 
+// https://leetcode.com/problems/valid-parentheses?envType=problem-list-v2&envId=v1lwf7tc
 
 /*
-
+Constraints:
+    1 <= s.length <= 10^4
+    s consists of parentheses only '()[]{}'
 */
 
 #include<bits/stdc++.h>
