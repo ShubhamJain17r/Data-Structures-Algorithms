@@ -29,3 +29,4 @@ The focus is on **understanding problem-solving patterns**, writing **clean solu
 |18| Graphs, Trees
 |19| Dynamic Programming, Linked List, Stack and Queue
 |20| Graphs, Trees
+|21| Dynamic Programming, Linked List, Stack and Queue
